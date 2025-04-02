@@ -14,6 +14,7 @@ matplotlib = "^3.10.0"
 pyvista = "^0.44.2"
 pyvistaqt = "^0.11.2"
 numba = "^0.61.0"
+tk = "^0.1.0"
 
 
 [build-system]
