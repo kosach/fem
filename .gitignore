@@ -1,0 +1,13 @@
+# Pytest
+.pytest_cache/
+
+__pycache__/
+.pytest_cache/
+src/tests/core/__pycache__/
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+src/fem_app/.DS_Store
